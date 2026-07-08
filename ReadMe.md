@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! My name is Khaled, I am a Computer Science Major at Queens College. <br><br>Currently I am working on a ML project but no one knows about that yet so 🤫 . <br><br>Welcome to my GitHub
+Hey! My name is Khaled . <br><br>Welcome to my GitHub
 
 
 ## 🌐 Socials:
