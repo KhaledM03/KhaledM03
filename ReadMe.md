@@ -1,26 +1,65 @@
-# 💫 About Me:
-Hey! My name is Khaled . <br><br>Welcome to my GitHub
+<div align="center">
 
+# Khaled Mousa
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nyc.khaled) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thekhaledmousa) 
+### Electrical + Computer Engineering × Software × Automation
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+I build the bridge between **hardware and software** — from circuits and digital logic to Python automation and full-stack products that work beyond the demo.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KhaledM03&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mousakhaled.com-633148?style=for-the-badge&logo=safari&logoColor=white)](https://mousakhaled.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled_Mousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thekhaledmousa)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KhaledM03&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KhaledM03&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ What I build
+
+- **Automation** — Python, Linux, network operations, repeatable workflows
+- **Hardware** — circuits, testing, troubleshooting, lab validation
+- **Digital systems** — logic design, architecture, simulation
+- **Web products** — JavaScript, responsive UI, Node.js, client-facing builds
+
+I like understanding the whole system first, then making it **clearer, faster, and more reliable**.
+
+## 🧰 Tech I actually use
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**Systems + tools**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+## 🛠️ Selected work
+
+| Project | What it is |
+|---|---|
+| **[mousakhaled.com](https://mousakhaled.com)** | Interactive engineering portfolio bringing together hardware, software, automation, and real-world work. |
+| **[WinterGreenCafe](https://github.com/KhaledM03/WinterGreenCafe)** | Production web build for a real client-facing business. |
+| **[SaibayConstructionWebsite](https://github.com/KhaledM03/SaibayConstructionWebsite)** | Responsive construction-company website project. |
+| **[TerminalGame](https://github.com/KhaledM03/TerminalGame)** | Terminal-based game project. |
+| **[Java GPA Calculator](https://github.com/KhaledM03/Java_GPA_Calculator)** | Java Swing GPA calculator. |
+
+## 📡 Current signal
+
+- 🎓 Studying **Computer Engineering + Electrical Engineering**
+- 🐍 Building automation that turns repetitive work into seconds
+- 🔌 Working across physical systems, digital logic, Linux, and software
+- 🌐 Shipping real products, not just demos
+
+---
+
+<div align="center">
+
+### Build something that works beyond the demo.
+
+**[Explore the field log →](https://mousakhaled.com)**
+
+</div>
