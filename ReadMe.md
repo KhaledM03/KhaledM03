@@ -2,102 +2,43 @@
 
 # Khaled Mousa
 
-### Electrical + Computer Engineering × Software × Automation
+**Computer & Electrical Engineering Technology student at Farmingdale State College (SUNY)**<br>
+I build where hardware meets software: FPGA logic in VHDL, circuits I design and test, Python automation, and web products.
 
-I build the bridge between **hardware and software**—from circuits and digital logic to Python automation and full-stack products that work beyond the demo.
+[![Portfolio](https://img.shields.io/badge/Portfolio-mousakhaled.com-573244?style=for-the-badge)](https://mousakhaled.com)
+[![Résumé](https://img.shields.io/badge/Résumé-PDF-b84531?style=for-the-badge)](https://mousakhaled.com/resume/khaled-mousa-resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thekhaledmousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thekhaledmousa/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mousakhaled.com-633148?style=for-the-badge&logo=safari&logoColor=white)](https://mousakhaled.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled_Mousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thekhaledmousa)
+Dual B.S. expected May 2028 · Dean's List · Open to engineering internships
 
 </div>
 
 ---
 
-## ⚡ What I build
+## Start here
 
-- **Automation** — Python, Linux, network operations, and repeatable workflows
-- **Hardware** — circuits, testing, troubleshooting, and lab validation
-- **Digital systems** — logic design, architecture, and simulation
-- **Web products** — JavaScript, responsive UI, Node.js, and client-facing builds
-
-I like understanding the whole system first, then making it **clearer, faster, and more reliable**.
-
-## 🧰 Tech I use
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Systems and tools**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-## 🗂️ Repository map
-
-### ⭐ Portfolio and featured work
-
-| Repository | Description |
+| Project | What it is |
 |---|---|
-| [MySite](https://github.com/KhaledM03/MySite) | Personal website and portfolio. |
-| [WinterGreenCafe](https://github.com/KhaledM03/WinterGreenCafe) | Client-facing cafe website project. |
-| [SaibayConstructionWebsite](https://github.com/KhaledM03/SaibayConstructionWebsite) | Responsive construction-company website. |
-| [The-Cove-Site](https://github.com/KhaledM03/The-Cove-Site) | Official Cove Development site. |
+| **[engineering-labs](https://github.com/KhaledM03/engineering-labs)** | My best lab work: a 4-bit ALU and Fibonacci display in VHDL on a Nexys A7 FPGA, Thévenin and maximum-power analysis, amplifier design, and a Logisim comparator. Each folder explains what I built and how I tested it. |
+| **[SpeakerMesh](https://github.com/KhaledM03/SpeakerMesh)** | A Windows app (C#/.NET) that plays one audio source through several speakers and lines them up acoustically: it plays chirps, measures their arrival with a microphone using matched filtering, and delays the faster paths. |
+| **[ResetWave](https://mousakhaled.com/work/resetwave)** (case study) | Python and Linux automation I built as a Boingo Wireless intern. It sends commands to wireless controllers over SSH and cut an access-point reset workflow from about 2 hours to 10 seconds. The code is private; the write-up is public. |
+| **[MySite](https://github.com/KhaledM03/MySite)** | My portfolio at [mousakhaled.com](https://mousakhaled.com): Next.js, Playwright tests, accessibility checks, and strict security headers. |
 
-### 🧱 Reusable website kits and templates
+## Experience
 
-| Repository | Description |
-|---|---|
-| [TheCoveDev](https://github.com/KhaledM03/TheCoveDev) | Current private starter kit for website development. |
-| [Starter-Kit-V4-Eleventy](https://github.com/KhaledM03/Starter-Kit-V4-Eleventy) | Eleventy website kit with blog and CMS integration. |
-| [Starter-KitV3](https://github.com/KhaledM03/Starter-KitV3) | Previous-generation website starter kit. |
-| [RealEstateAgentSite](https://github.com/KhaledM03/RealEstateAgentSite) | Real-estate website template. |
-| [RealEstateAgentSite2](https://github.com/KhaledM03/RealEstateAgentSite2) | Iteration of the real-estate website template. |
+- **Wireless Operations Intern, Boingo Wireless** (Summer 2024): network troubleshooting, Linux infrastructure testing, a field deployment, ResetWave, and leading a hackathon team.
+- **Environmental Field Technician, J.C. Broderick & Associates** (Summer 2026): air quality monitoring and industrial hygiene sampling.
+- **Founder & Full-Stack Developer, The Cove Dev** (2025): client websites and web apps in React and Next.js.
+- **Field Technician, Empire Camera Installations** (2023 – 2025): IP camera systems, Ethernet and PoE, on-site troubleshooting.
+- **EMG Research Assistant, Meta Quest Research** (Summer 2021): wearable EMG signal collection and testing.
 
-### 💼 Client and freelance work
+## Tools
 
-| Repository | Description |
-|---|---|
-| [AuraHealthAndWellness](https://github.com/KhaledM03/AuraHealthAndWellness) | Private client project for Aura Health and Wellness. |
-| [RWHomeREMODEL-handcoded](https://github.com/KhaledM03/RWHomeREMODEL-handcoded) | Hand-coded home renovation website implementation. |
-| [R.W.-Home-Renno](https://github.com/KhaledM03/R.W.-Home-Renno) | R.W. Home Renovation website project. |
-| [elwisemuslim](https://github.com/KhaledM03/elwisemuslim) | Website project for Elwise Muslim. |
-| [Jah-Bless](https://github.com/KhaledM03/Jah-Bless) | Jah Bless website mockup. |
-| [SushiRepublicCaseStudy](https://github.com/KhaledM03/SushiRepublicCaseStudy) | Sushi Republic website case study. |
+**Hardware and lab:** oscilloscopes · multimeters · function generators · soldering · NI Multisim · MATLAB<br>
+**Digital:** VHDL · Vivado · Nexys A7 FPGA · Logisim · assembly<br>
+**Networking:** Cisco 9800 WLC · access points · Ethernet/PoE · Linux · SSH · Datadog<br>
+**Code:** Python · C++ · C# · JavaScript · React · Next.js · Node.js · Git
 
-### 🧪 Learning and experiments
+## Outside class
 
-| Repository | Description |
-|---|---|
-| [TerminalGame](https://github.com/KhaledM03/TerminalGame) | Python terminal game where players choose their fate. |
-| [Java_GPA_Calculator](https://github.com/KhaledM03/Java_GPA_Calculator) | Java Swing GPA calculator. |
-| [TestSite](https://github.com/KhaledM03/TestSite) | Website testing repository. |
-
-### 🚀 Active product work
-
-| Repository | Description |
-|---|---|
-| [project-atlas](https://github.com/KhaledM03/project-atlas) | Operating system for building a world-class ecommerce brand from first principles. |
-
-## 📡 Current signal
-
-- 🎓 Studying **Computer Engineering + Electrical Engineering**
-- 🐍 Building automation that turns repetitive work into seconds
-- 🔌 Working across physical systems, digital logic, Linux, and software
-- 🌐 Shipping real products, not just demos
-
----
-
-<div align="center">
-
-### Build something that works beyond the demo.
-
-**[Explore the field log →](https://mousakhaled.com)**
-
-</div>
+I built an FPV drone (programmed the transmitter and bound it to its ExpressLRS receiver) and hand-soldered a pair of FM walkie-talkies. Both are on my [portfolio](https://mousakhaled.com).
